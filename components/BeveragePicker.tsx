@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
     lineHeight: 16,
   },
   itemLabelSelected: {
-    color: Colors.primary,
+    color: Colors.primaryText,
   },
   multiplierNote: {
     fontFamily: 'Inter_500Medium',

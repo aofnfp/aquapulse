@@ -307,7 +307,7 @@ const styles = StyleSheet.create({
   streakText: {
     fontFamily: 'Inter_500Medium',
     fontSize: 11,
-    color: Colors.primary,
+    color: Colors.primaryText,
     fontWeight: '500',
     letterSpacing: 0.33,
     textTransform: 'uppercase',
@@ -325,7 +325,7 @@ const styles = StyleSheet.create({
     letterSpacing: -0.8,
   },
   ringNumberSuccess: {
-    color: Colors.success,
+    color: Colors.successText,
   },
   ringGoal: {
     fontFamily: 'Inter_500Medium',
@@ -343,14 +343,14 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   remainingSuccess: {
-    color: Colors.success,
+    color: Colors.successText,
   },
   beverageChip: {
     flexDirection: 'row',
     alignItems: 'center',
     alignSelf: 'center',
     gap: 6,
-    height: 36,
+    height: 44,
     paddingHorizontal: 14,
     borderRadius: 999,
     backgroundColor: Colors.primaryFaint,

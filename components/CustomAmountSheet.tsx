@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
   },
   suggestion: {
     flex: 1,
-    height: 36,
+    height: 44,
     borderRadius: 999,
     backgroundColor: Colors.surfaceDivider,
     alignItems: 'center',

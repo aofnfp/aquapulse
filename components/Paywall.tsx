@@ -228,7 +228,7 @@ const styles = StyleSheet.create({
   },
   planTrial: {
     fontSize: 13,
-    color: Colors.primary,
+    color: Colors.primaryText,
     marginTop: 2,
     lineHeight: 18,
   },

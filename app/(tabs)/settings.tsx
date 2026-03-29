@@ -153,7 +153,7 @@ export default function SettingsScreen() {
               accessibilityLabel="Upgrade to Premium"
               accessibilityRole="button"
             >
-              <Text style={[styles.rowLabel, { color: Colors.primary }]}>
+              <Text style={[styles.rowLabel, { color: Colors.primaryText }]}>
                 Upgrade to Premium
               </Text>
               <ChevronRight size={16} color={Colors.primary} />
@@ -161,7 +161,7 @@ export default function SettingsScreen() {
           )}
           {isPremium && (
             <View style={styles.row}>
-              <Text style={[styles.rowLabel, { color: Colors.success }]}>
+              <Text style={[styles.rowLabel, { color: Colors.successText }]}>
                 Premium Active
               </Text>
             </View>

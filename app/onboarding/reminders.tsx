@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
   skipText: {
     fontFamily: 'Inter_400Regular',
     fontSize: 13,
-    color: Colors.primary,
+    color: Colors.primaryText,
     lineHeight: 18,
   },
   content: {
