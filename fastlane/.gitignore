@@ -1,0 +1,5 @@
+# Fastlane
+*.p12
+*.cer
+*.mobileprovision
+report.xml

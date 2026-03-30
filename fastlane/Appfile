@@ -1,0 +1,5 @@
+app_identifier("com.aofnfp.aquapulse")
+apple_id("abrahamoladotun@icloud.com")
+
+# team_id: Set via APP_STORE_CONNECT_TEAM_ID env var or after running 'fastlane produce'
+# itc_team_id: Set via ITUNES_CONNECT_TEAM_ID env var
