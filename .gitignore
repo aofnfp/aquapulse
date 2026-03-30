@@ -31,3 +31,8 @@ yarn-error.*
 # TypeScript
 *.tsbuildinfo
 .vercel
+
+# Store credentials (never commit)
+google-play-service-account.json
+play-store-key.json
+AuthKey_*.p8

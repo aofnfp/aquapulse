@@ -1,0 +1,11 @@
+AquaPulse is a clean, zero-noise hydration tracker that helps you stay consistently hydrated. Log water intake, set daily goals, and get gentle reminders throughout the day.
+
+Features:
+• Simple one-tap water logging
+• Customizable daily hydration goals
+• Smart reminders that adapt to your schedule
+• Intake history and weekly trends
+• Multiple drink types (water, coffee, tea, juice)
+• Widget support for quick logging
+
+Built by the Abraham Oladotun Foundation NFP.
