@@ -30,10 +30,9 @@
   "submit": {
     "production": {
       "ios": {
-        "ascApiKeyIssuerId": "REPLACE_WITH_ASC_ISSUER_ID",
-        "ascApiKeyId": "6WLF6XCC5H",
-        "ascApiKeyPath": "REPLACE_WITH_P8_PATH_OR_USE_EAS_SECRET",
-        "ascAppId": "REPLACE_WITH_ASC_APP_ID"
+        "appleId": "abrahamoladotun@icloud.com",
+        "ascAppId": "REPLACE_WITH_ASC_APP_ID",
+        "appleTeamId": "UF7X24D7MP"
       },
       "android": {
         "serviceAccountKeyPath": "./google-play-service-account.json",
