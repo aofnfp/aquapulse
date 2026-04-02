@@ -234,6 +234,8 @@ export default function SettingsScreen() {
             <Text style={styles.rowValue}>1.0.0</Text>
           </View>
         </View>
+
+        <Text style={styles.brandingText}>App by aoftech</Text>
       </ScrollView>
 
       <Paywall visible={showPaywall} onClose={() => setShowPaywall(false)} />
@@ -332,5 +334,12 @@ const styles = StyleSheet.create({
   },
   unitTextActive: {
     color: '#FFFFFF',
+  },
+  brandingText: {
+    fontFamily: 'Inter_400Regular',
+    fontSize: 12,
+    color: Colors.textMuted,
+    textAlign: 'center',
+    marginTop: 24,
   },
 });
